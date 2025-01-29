@@ -1,0 +1,3 @@
+mkdir gleam-bot
+cd gleam-bot
+npm init -y

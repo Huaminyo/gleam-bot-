@@ -6,4 +6,4 @@ Bot otomatis untuk menyelesaikan tugas di Gleam menggunakan Puppeteer dan Node.j
 ## Instalasi
 1. Clone repositori ini:
    ```bash
-   git clone https://github.com/username/gleam-bot.git
+   https://github.com/Huaminyo/gleam-bot-

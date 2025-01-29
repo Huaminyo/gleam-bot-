@@ -1,5 +1,5 @@
 {
-  "name": "gleam-bot",
+  "name": "gleam-bot-",
   "version": "1.0.0",
   "description": "Bot untuk otomatisasi tugas di Gleam",
   "main": "index.js",
@@ -9,6 +9,6 @@
   "dependencies": {
     "puppeteer": "^21.0.0"
   },
-  "author": "Your Name",
+  "author": "Huaminyo",
   "license": "MIT"
 }

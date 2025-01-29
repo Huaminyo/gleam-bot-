@@ -1,3 +1,14 @@
-mkdir gleam-bot
-cd gleam-bot
-npm init -y
+{
+  "name": "gleam-bot",
+  "version": "1.0.0",
+  "description": "Bot untuk otomatisasi tugas di Gleam",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "puppeteer": "^21.0.0"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
